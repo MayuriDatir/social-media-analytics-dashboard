@@ -29,7 +29,7 @@ This project analyzes social media post engagement to help optimize content crea
 - Comment-to-Like Ratio by Content Type
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](Social_Media_Analytics_page-0001.jpg)
 
 ## Dataset
 Source: Kaggle – Social Media Post Engagement Dataset
